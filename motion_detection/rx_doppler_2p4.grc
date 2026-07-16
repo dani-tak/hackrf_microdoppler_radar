@@ -6,7 +6,7 @@ options:
     cmake_opt: ''
     comment: ''
     copyright: ''
-    description: CW Doppler motion detector (one HackRF). Close the window to stop
+    description: CW Doppler motion detector (one HackRF). 
       cleanly.
     gen_cmake: 'On'
     gen_linking: dynamic
