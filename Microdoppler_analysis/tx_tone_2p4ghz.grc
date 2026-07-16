@@ -6,7 +6,7 @@ options:
     cmake_opt: ''
     comment: ''
     copyright: ''
-    description: CW tone transmitter (one HackRF). Press Enter in the terminal to
+    description: CW tone transmitter (one HackRF).
       stop cleanly.
     gen_cmake: 'On'
     gen_linking: dynamic
